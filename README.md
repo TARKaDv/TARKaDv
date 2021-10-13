@@ -1,4 +1,3 @@
-# TARKa-mcpe
-# Информация
-Хэй! Вся информация находится на моем веб-сайте
-- <a href="https://tarka.ml/">Мой веб-сайт</a>
+# TARKaDev
+# https://tarka.ml
+
