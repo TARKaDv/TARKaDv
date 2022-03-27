@@ -1,3 +1,2 @@
-# TARKaDev
-# https://tarka.ml
+https://tarka.ml
 
